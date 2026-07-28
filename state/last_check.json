@@ -1,0 +1,27 @@
+{
+  "first_sweep": "2026-07-28T05:28:58Z",
+  "last_check_utc": "2026-07-28T05:28:58Z",
+  "user": {
+    "name": "Nahush",
+    "email": "nahush@superunlimited.com",
+    "timezone": "IST"
+  },
+  "sources": {
+    "jira": {
+      "connected": true,
+      "last_checked_utc": "2026-07-28T05:28:58Z"
+    },
+    "slack": {
+      "connected": true,
+      "last_checked_utc": "2026-07-28T05:28:58Z"
+    },
+    "calendar": {
+      "connected": true,
+      "last_checked_utc": "2026-07-28T05:28:58Z"
+    },
+    "confluence": {
+      "connected": true,
+      "last_checked_utc": "2026-07-28T05:28:58Z"
+    }
+  }
+}
